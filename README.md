@@ -1,3 +1,7 @@
+
+![e7730ef1d8b3a2599bc0ab59021e2075706c71c0](https://github.com/AyushIEMA/AyushIEMA/assets/156051363/3b589727-051e-4a0b-b35a-7deb576dea2c)
+
+
 - 👋 Hi, I’m @Ayush
 - 👀 I’m interested in Backend Development 
 - 🌱 I’m currently learning Full Stack Developement
