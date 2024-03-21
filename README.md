@@ -1,5 +1,5 @@
 
-![e7730ef1d8b3a2599bc0ab59021e2075706c71c0](https://github.com/AyushIEMA/AyushIEMA/assets/156051363/3b589727-051e-4a0b-b35a-7deb576dea2c)
+![58037aeed4d8dd7ee53bee0d50dfe970](https://github.com/AyushIEMA/AyushIEMA/assets/156051363/38a5339f-fff7-4f6c-8e0e-82fb4239bcbe)
 
 
 - 👋 Hi, I’m @Ayush
